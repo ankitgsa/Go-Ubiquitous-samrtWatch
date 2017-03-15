@@ -9,5 +9,5 @@
 * App conforms to common standards found in the Android Nanodegree General Project Guidelines.
 
 ## Screenshots
-<img src=https://github.com/ankitgsa/Go-Ubiquitous-samrtWatch/blob/master/screenshots/image1.png/>
-<img src=https://github.com/ankitgsa/Go-Ubiquitous-samrtWatch/blob/master/screenshots/image2.png/>
+<img src=https://github.com/ankitgsa/Go-Ubiquitous-smartWatch/blob/master/screenshots/image1.png/>
+<img src=https://github.com/ankitgsa/Go-Ubiquitous-smartWatch/blob/master/screenshots/image2.png/>
